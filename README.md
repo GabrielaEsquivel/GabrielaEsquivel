@@ -1,7 +1,7 @@
 ### ʜᴇʟʟᴏ, ᴛʜᴇʀᴇ! ¡ʜᴏʟᴀ! ᴄɪᴀᴏ! 👋
 Ａｎｄｒｅａ Ｇａｂｒｉｅｌａ Ｅｓｑｕｉｖｅｌ | 23, 🇲🇽
 
-Web Developer Junior at Ancient Technology Group, working hand by hand with Dominion Global as a FrontEnd Developer (2022)
+Web Developer Junior at Ancient Technology Group, working hand by hand with Dominion Global as a FrontEnd Developer (2021 - now)
 Very grateful with every person in my life that has decided to stay, to teach me something or make my life better. 
 
 Thank you so much for being here! Let's see more about me 👀
