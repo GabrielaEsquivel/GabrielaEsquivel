@@ -6,25 +6,13 @@ Very grateful with every person in my life that has decided to stay, to teach me
 
 Thank you so much for being here! Let's see more about me 👀
 
-ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝 𝕊𝕜𝕚𝕝𝕤𝕤  = [
-&nbsp;
- &nbsp;&nbsp;&nbsp;&nbsp;[ 
-  {'TypeScrip'},
-  {'Javascript'},
-  {'PHP'},
-  {'SQL' },
-  {'Python' },
-  {'Java'}
- ],&nbsp;&nbsp;&nbsp;&nbsp;
- [
-  {'Angular'},
-  {'Ionic (Angular)'},
-  {'Laravel'},
-  {'TypeORM'},
-  {'Anaconda'},
-  {'PhpMyAdmin'},
- ],
-];
+-👩‍💻 I’m currently working on ... 
+My web skills, become a truly dev fullstrack meanwhile I'm collaborating as a frontend dev in a project for Dominion Global.
+- 🌱 I’m currently learning ...
+More about NodeJs, Angular and in a slower way techs as Jenkins and Docker.
+- 👩 💖 Personal stuff ...
+I'm really into writing and reading. There are some little projects that I'd worked on with talented people. I'm also working hard to submit one of my novels to get it published! 
+Actually, I'm really an artistic person, I also love painting watercolor and just a little bit oil and pastel, editing in Photoshop or Sketch.
 
 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕀'𝕧𝕖 𝕨𝕠𝕣𝕜𝕖𝕕 𝕠𝕟:&nbsp;&nbsp;&nbsp;
 Homenbird App - https://app.homenbird.com/  (developer web and mobile)&nbsp;&nbsp;
