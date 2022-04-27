@@ -14,10 +14,6 @@ More about NodeJs, Angular and in a slower way techs as Jenkins and Docker.
 I'm really into writing and reading. There are some little projects that I'd worked on with talented people. I'm also working hard to submit one of my novels to get it published! 
 Actually, I'm really an artistic person, I also love painting watercolor and just a little bit oil and pastel, editing in Photoshop or Sketch.
 
-ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕀'𝕧𝕖 𝕨𝕠𝕣𝕜𝕖𝕕 𝕠𝕟:&nbsp;&nbsp;&nbsp;
-Homenbird App - https://app.homenbird.com/  (developer web and mobile)&nbsp;&nbsp;
-ARO Administrativo - (private) (developer web)&nbsp;&nbsp;&nbsp;
-Telcel MX (recharges point OMCOM)  - (private) (developer web)&nbsp;&nbsp;&nbsp;
 
 ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ:&nbsp;&nbsp;&nbsp;
 
